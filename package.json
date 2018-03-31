@@ -1,6 +1,6 @@
 {
   "name": "minibundle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple effective and fast build modules for esnext es5 and browser",
   "main": "src/index.js",
   "scripts": {
