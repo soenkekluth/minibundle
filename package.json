@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/soenkekluth/minibundle#readme",
   "dependencies": {
-    "bundlesize": "^0.17.0",
+    "bundlesize": "^0.18.0",
     "easy-glob": "^1.1.0",
     "eslint-config-sk-flow": "^1.1.2",
     "gzip-size-cli": "^2.1.0",
